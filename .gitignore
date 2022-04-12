@@ -5,6 +5,7 @@ config.py
 API_practice.ipynb
 random_number.ipynb
 weather_data/
+Practice Files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
