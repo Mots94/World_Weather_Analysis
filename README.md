@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 Using Python and APIs to visualize weather data for vacationing
 
-![beach]('https://github.com/Mots94/World_Weather_Analysis/blob/main/weather_data/beach.jpg')
+![beach](https://github.com/Mots94/World_Weather_Analysis/blob/main/weather_data/beach.jpg)
 
 ## Purpose
 When picking a vacation destination, there are a few key factors that often influence an individual's decision.  Some examples of those factors are the weather, availability of lodging, and ability to travel between different cities.  In this analysis, weather information and lodging were gathered using the Open Weather API and Google Places API.  This information was visualized using the Google Maps API, along with directions between locations.  
